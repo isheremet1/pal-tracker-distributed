@@ -11,6 +11,7 @@ inputs:
 - name: pal-tracker
 - name: version
 
+
 outputs:
 - name: build-output
 
