@@ -1,6 +1,3 @@
-https://registration-pal-is.apps.longs.pal.pivotal.io/users/7
-https://registration-pal-is.apps.longs.pal.pivotal.io/accounts?ownerId=7
-https://registration-pal-is.apps.longs.pal.pivotal.io/projects?accountId=7
 https://allocations-pal-is.apps.longs.pal.pivotal.io/allocations?projectId=10
 https://backlog-pal-is.apps.longs.pal.pivotal.io/stories?projectId=10
 https://timesheets-pal-is.apps.longs.pal.pivotal.io/time-entries?userId=7
